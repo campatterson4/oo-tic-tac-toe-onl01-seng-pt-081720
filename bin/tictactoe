@@ -2,7 +2,7 @@
 require 'pry'
 require_relative '../lib/tic_tac_toe.rb'
 #!/usr/bin/env ruby
-require 'pry'	require 'pry'
+require 'pry'
 require_relative '../lib/tic_tac_toe.rb'	require_relative '../lib/tic_tac_toe.rb'
 
 
